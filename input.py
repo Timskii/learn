@@ -1,5 +1,5 @@
 num = int(input())
-data = 'Hello python'
+data = 'Hello python3.8'
 f = open("data.txt", "w")
 
 for i in range(num):
